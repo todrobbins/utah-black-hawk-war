@@ -28,8 +28,8 @@
  * Taba
 * Unhoquitch
 * [Wakara](wakara.md)
- * Walker
- * Warker
+ * [Walker](wakara.md)
+ * [Warker](wakara.md)
 
 #Pahvants (Utah)
 
