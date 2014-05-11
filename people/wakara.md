@@ -6,3 +6,8 @@ Known brothers were:
 * Grospeen
 * Tabby
 * Anton
+
+##Alternate names
+
+* Walker
+* Warker

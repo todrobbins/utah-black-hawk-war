@@ -5,20 +5,20 @@
 * Jake Arapeen
  * Arapeen
  * Arrowpin
-* Black Hawk
- * An Tonga
- * An-ker-an-kage
- * Antonga
- * Antonga Black Hawk
- * An-ton-guer
- * Antonguer
- * Chief Black Hawk
+* [Black Hawk](black-hawk.md)
+ * [An Tonga](black-hawk.md)
+ * [An-ker-an-kage](black-hawk.md)
+ * [Antonga](black-hawk.md)
+ * [Antonga Black Hawk](black-hawk.md)
+ * [An-ton-guer](black-hawk.md)
+ * [Antonguer](black-hawk.md)
+ * [Chief Black Hawk](black-hawk.md)
 * Grospeen
  * Grospin
-* Mountain
- * Quibets
- * Kibets
- * Kibe
+* [Mountain](mountain.md)
+ * [Quibets](mountain.md)
+ * [Kibets](mountain.md)
+ * [Kibe](mountain.md)
 * Peteetneet
 * Sanpitch
 * Showan
@@ -41,8 +41,8 @@
 
 #Timpanogos Utes (Utah)
 
-* An-kar-tewets
-* Bishop
+* [An-kar-tewets](an-kar-tewets.md)
+* [Bishop](bishop.md)
 * Chief Jake
 * Old Elk
 * Squash-Head
