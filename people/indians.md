@@ -36,7 +36,9 @@
 
 #Tabaguache Utes (Colorado)
 
-#Timpanogas Utes (Utah)
+* Ouray
+
+#Timpanogos Utes (Utah)
 
 * An-kar-tewets
 * Bishop
