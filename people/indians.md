@@ -27,7 +27,7 @@
 * Tabby
  * Taba
 * Unhoquitch
-* Wakara
+* [wakara.md](Wakara)
  * Walker
  * Warker
 
