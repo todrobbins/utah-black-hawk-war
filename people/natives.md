@@ -1,4 +1,5 @@
-#Northern Utes (Utah)
+# Native Americans
+## Northern Utes (Utah)
 
 * Antero
 * Anton
@@ -31,15 +32,15 @@
  * [Walker](wakara.md)
  * [Warker](wakara.md)
 
-#Pahvants (Utah)
+## Pahvants (Utah)
 
 * Kanosh
 
-#Tabaguache Utes (Colorado)
+## Tabaguache Utes (Colorado)
 
 * Ouray
 
-#Timpanogos Utes (Utah)
+## Timpanogos Utes (Utah)
 
 * [An-kar-tewets](an-kar-tewets.md)
 * [Bishop](bishop.md)

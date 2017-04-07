@@ -1,9 +1,9 @@
-#Bureau of Indian Affairs
+## Bureau of Indian Affairs
 
 * George Manypenny
 * Luke Lea
 
-#Mormons
+## Mormons
 
 * Brigham Young
 * Daniel H. Wells
