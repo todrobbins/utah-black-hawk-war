@@ -1,25 +1,25 @@
 # Native Americans
-## Northern Utes (Utah)
+## Northern Utes (Utah Territory)
 
 - Antero
 - Anton
 - Jake Arapeen
- - Arapeen
- - Arrowpin
+  - Arapeen
+  - Arrowpin
 - [Black Hawk](black-hawk.md)
- - [An Tonga](black-hawk.md)
- - [An-ker-an-kage](black-hawk.md)
- - [Antonga](black-hawk.md)
- - [Antonga Black Hawk](black-hawk.md)
- - [An-ton-guer](black-hawk.md)
- - [Antonguer](black-hawk.md)
- - [Chief Black Hawk](black-hawk.md)
+  - [An Tonga](black-hawk.md)
+  - [An-ker-an-kage](black-hawk.md)
+  - [Antonga](black-hawk.md)
+  - [Antonga Black Hawk](black-hawk.md)
+  - [An-ton-guer](black-hawk.md)
+  - [Antonguer](black-hawk.md)
+  - [Chief Black Hawk](black-hawk.md)
 - Grospeen
- - Grospin
+  - Grospin
 - [Mountain](mountain.md)
- - [Quibets](mountain.md)
- - [Kibets](mountain.md)
- - [Kibe](mountain.md)
+  - [Quibets](mountain.md)
+  - [Kibets](mountain.md)
+  - [Kibe](mountain.md)
 - Peteetneet
 - Sanpitch
 - Showan
@@ -29,18 +29,18 @@
  - Taba
 - Unhoquitch
 - [Wakara](wakara.md)
- - [Walker](wakara.md)
- - [Warker](wakara.md)
+  - [Walker](wakara.md)
+  - [Warker](wakara.md)
 
-## Pahvants (Utah)
+## Pahvants (Utah Territory)
 
 - Kanosh
 
-## Tabaguache Utes (Colorado)
+## Tabaguache Utes (Colorado Territory)
 
 - Ouray
 
-## Timpanogos Utes (Utah)
+## Timpanogos Utes (Utah Territory)
 
 - [An-kar-tewets](an-kar-tewets.md)
 - [Bishop](bishop.md)
