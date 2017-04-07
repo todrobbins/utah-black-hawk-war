@@ -1,9 +1,9 @@
-#Mountain
+# Mountain
 
-* Brother of [Black Hawk](black-hawk.md)
+- Brother of [Black Hawk](black-hawk.md)
 
-##Alternate names
+## Alternate names
 
-* Quibets
-* Kibets
-* Kibe
+- Quibets
+- Kibets
+- Kibe

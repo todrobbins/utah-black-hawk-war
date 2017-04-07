@@ -1,13 +1,13 @@
-#Wakara
+# Wakara
 
 Known brothers were:
 
-* Arapeen ("Arrowpin")
-* Grospeen
-* Tabby
-* Anton
+- Arapeen ("Arrowpin")
+- Grospeen
+- Tabby
+- Anton
 
-##Alternate names
+## Alternate names
 
-* Walker
-* Warker
+- Walker
+- Warker
