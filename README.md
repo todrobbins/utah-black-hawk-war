@@ -6,6 +6,8 @@ Data and notes on _Utah's Black Hawk War_ (1999) by John Alton Peterson.
 
 ## People
 - [Natives](people/natives.md)
-- [Whites](people/natives.md)
+- [Whites](people/whites.md)
 
 ## Places
+
+Todo...
