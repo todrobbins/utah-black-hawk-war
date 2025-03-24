@@ -6,7 +6,7 @@ Data and notes on [_Utah's Black Hawk War_](https://bookshop.org/books/utah-s-bl
 
 ## People
 - [Natives](people/natives.md)
-- [Whites](people/settlers.md)
+- [Settlers](people/settlers.md)
 
 ## Places
 
