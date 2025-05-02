@@ -1,6 +1,6 @@
 # Utah Black Hawk War
 
-[![Book cover for Utah's Black Hawk War by John Alton Peterson](utahs-black-hawk-war.jpg)](https://www.amazon.com/Utahs-Black-Hawk-Alton-Peterson/dp/0874805082)
+[![Book cover for Utah's Black Hawk War by John Alton Peterson](utahs-black-hawk-war.jpg)](https://uofupress.com/books/utahs-black-hawk-war/)
 
 Data and notes on [_Utah's Black Hawk War_](https://bookshop.org/books/utah-s-black-hawk-war/9780874805086) (1999) by John Alton Peterson.
 
@@ -10,4 +10,4 @@ Data and notes on [_Utah's Black Hawk War_](https://bookshop.org/books/utah-s-bl
 
 ## Places
 
-Todo...
+To-do...
